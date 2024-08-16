@@ -1,6 +1,6 @@
 <h2 align=center> <code>Sup! I'm LeafXY!🌿</code> 
 
-![](https://komarev.com/ghpvc/?username=neonforestmist&abbreviated=true&label=All+Time+Profile+Views!&style=flat-square&color=7eeeba) </h2>
+![](https://komarev.com/ghpvc/?username=neonforestmist&abbreviated=true&label=Profile+Views&style=flat-square&color=7eeeba) </h2>
 
 
 <h3 align=center>GitHub Stuff!</h3>
