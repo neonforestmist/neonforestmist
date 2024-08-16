@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align=center> <code>Sup! I'm LeafXY!🌿</code> 
 
-<!--
-**neonforestmist/neonforestmist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=neonforestmist&abbreviated=true&label=All+Time+Profile+Views!&style=flat-square&color=7eeeba) </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align=center>GitHub Stuff!</h3>
+<p align=center>
+<a href="https://github.com/neonforestmist">
+  <img align="center" src="https://readme-stats.eps.lol/api?username=neonforestmist&show_icons=true&theme=transparent&title_color=7eeeba&text_color=b3ffdb&icon_color=7eeeba&border_radius=6&hide_rank=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/neonforestmist">
+  <img align="center" src="https://readme-stats.eps.lol/api/top-langs/?username=neonforestmist&theme=transparent&title_color=7eeeba&text_color=7eeeba" />
+</a>
+</p>
+
+</details>
