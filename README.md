@@ -1,6 +1,7 @@
-- 👋 Hey there! I’m @neonforestmist
-- 🧠 I'm passionate about Machine Learning and AI using Swift, and Python.
-- 📱 Currently building my skills in iOS development and always experimenting with new ideas and frameworks.
-- 💻 Exploring frontend creativity with HTML/CSS and sharpening my logic with Python.
-- 🤝 I'm open to collaborating on fun, meaningful, or challenging projects.
+# 👋 Hey there!
+- 🤝 I'm open to collaborating on open-source projects.
 - 🌱 Always growing my skills.
+# Currently Learning
+- 🍎 Newer Apple Frameworks.
+- 🤖 AI powered frameworks.
+- 💻 Full-Stack Application Languages.
