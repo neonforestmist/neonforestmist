@@ -1,7 +1,9 @@
 # 👋 Hey there!
-- 🤝 I'm open to collaborating on open-source projects.
-- 🌱 Always growing my skills.
+- 👤 I'm Lukas Lozada Perez, a CS Student from New York.
+- 🌱 I'm currently developing my skills.
 # Currently Learning
+- 📱 UI's that align with Apple HIG.
 - 🍎 Newer Apple Frameworks.
-- 🤖 AI powered frameworks.
+- 🤖 AI frameworks.
 - 💻 Full-Stack Application Languages.
+- 🍭 How to be more creative.
