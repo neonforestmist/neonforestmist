@@ -9,7 +9,7 @@
 - 🔉 EchoSafe
 - 🎨 Chroma - A Simple Color Tool 
 
-# Currently Learning
+# 🤔 Currently Learning
 - 🍎 SwiftUI via 100 Days of SwiftUI
 - 🍏 Newer Apple Frameworks.
 - 🤖 Latest AI frameworks and trends.
