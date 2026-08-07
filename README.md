@@ -1,5 +1,6 @@
 # 👋 Hey there!
 - 👤 I'm Lukas Lozada Perez, a CS Student from New York City.
+- **🔴 Currently working on [Clover Image Tiny](https://huggingface.co/spaces/neonforestmist/Clover-Image-Tiny-Demo) and Super Alan Run.**
 
 # 🗃️ Featured Projects
 - 🍀 Clover Image Tiny
