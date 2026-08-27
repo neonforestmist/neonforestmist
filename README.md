@@ -4,7 +4,7 @@
 
 # 🗃️ Featured Projects
 - 🍀 [Clover Image Tiny](https://github.com/neonforestmist/Clover-Image-Tiny)
-- ✍️ [SmolGPT-Fables](https://github.com/neonforestmist/SmolGPT-Fables-iOS)
+- ✍️ [SmolGPT-Fables](https://github.com/neonforestmist/SmolGPT-Fables)
 - 🪻 [Violette - Chat With AI](https://apps.apple.com/us/app/violette-chat-with-ai/id6760790799)
 - 🏃‍♂️ [Super Alan Run](https://apps.apple.com/us/app/super-alan-run/id6799301516)
 - 👀 [The Seeker Labyrinth](https://github.com/neonforestmist/TheSeekerLabyrinth)
