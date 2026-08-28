@@ -1,7 +1,6 @@
 # 👋 Hey there!
 - 👤 I'm Lukas Lozada Perez, a CS Student from New York City.
-- **🔴 Currently working on [Clover Image Tiny](https://huggingface.co/spaces/neonforestmist/Clover-Image-Tiny-Demo)**
-
+- 
 # 🗃️ Featured Projects
 - 🍀 [Clover Image Tiny](https://github.com/neonforestmist/Clover-Image-Tiny)
 - ✍️ [SmolGPT-Fables](https://github.com/neonforestmist/SmolGPT-Fables)
